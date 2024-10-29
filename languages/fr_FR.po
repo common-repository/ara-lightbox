@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ara Lightbox\n"
+"POT-Creation-Date: 2015-12-16 16:38+0100\n"
+"PO-Revision-Date: 2015-12-16 16:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: François Yerg <contact@francoisyerg.net>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\WP-Plugins\\wp-content\\plugins\\\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ara-lightbox\n"
+
+#: ara-lightbox/ara-lightbox.php:82
+msgid "Enable lightbox"
+msgstr "Activer la visioneuse"
+
+#: ara-lightbox/ara-lightbox.php:85
+msgid "Background settings"
+msgstr "Paramètres d'arrière plan"
+
+#: ara-lightbox/ara-lightbox.php:86
+msgid "Background color"
+msgstr "Couleur d'arrière plan"
+
+#: ara-lightbox/ara-lightbox.php:87
+msgid "Background opacity level"
+msgstr "Niveau d'opacité de l'arrière plan"
+
+#: ara-lightbox/ara-lightbox.php:90
+msgid "Image settings"
+msgstr "Paramètres de l'image"
+
+#: ara-lightbox/ara-lightbox.php:91
+msgid "Image border size"
+msgstr "Epaisseur de la bordure"
+
+#: ara-lightbox/ara-lightbox.php:92
+msgid "Image border style"
+msgstr "Style de la bordure de l'image"
+
+#: ara-lightbox/ara-lightbox.php:93
+msgid "Image border color"
+msgstr "Couleur de la bordure de l'image"
+
+#: ara-lightbox/ara-lightbox.php:96
+msgid "Caption settings"
+msgstr "Paramètres de la légende"
+
+#: ara-lightbox/ara-lightbox.php:97
+msgid "caption position"
+msgstr "Position de la légende"
+
+#: ara-lightbox/ara-lightbox.php:98
+msgid "caption color"
+msgstr "Couleur de la légende"
+
+#: ara-lightbox/ara-lightbox.php:128
+msgid "Solid"
+msgstr "Solide (solid)"
+
+#: ara-lightbox/ara-lightbox.php:129
+msgid "Dashed"
+msgstr "Pointillés (dashed)"
+
+#: ara-lightbox/ara-lightbox.php:130
+msgid "Dotted"
+msgstr "Tirets (dotted)"
+
+#: ara-lightbox/ara-lightbox.php:131
+msgid "Double"
+msgstr "Double"
+
+#: ara-lightbox/ara-lightbox.php:132
+msgid "Groove"
+msgstr "Groove"
+
+#: ara-lightbox/ara-lightbox.php:133
+msgid "Ridge"
+msgstr "Ridge"
+
+#: ara-lightbox/ara-lightbox.php:134
+msgid "Inset"
+msgstr "Inset"
+
+#: ara-lightbox/ara-lightbox.php:135
+msgid "Outset"
+msgstr "Outset"
+
+#: ara-lightbox/ara-lightbox.php:146
+msgid "Hidden"
+msgstr "Cachée"
+
+#: ara-lightbox/ara-lightbox.php:147
+msgid "Bottom"
+msgstr "En dessous"
+
+#: ara-lightbox/ara-lightbox.php:148
+msgid "Top"
+msgstr "Au dessus"
